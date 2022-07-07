@@ -4,3 +4,8 @@
 ### Luis     25 Verde  Full Stack Developer Java
 ### Jhovanny 27 Azul   PHP
 
+- id
+- nombre
+- edad
+- color
+- trabajo
