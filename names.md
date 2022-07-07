@@ -1,5 +1,2 @@
 ### Josué 29 Negro Full-Stack Developer
-
-´´´
-Nuevo taller de git & github
-´´´
+### Alfredo 30  CAFE Programador BB
