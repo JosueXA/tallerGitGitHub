@@ -6,3 +6,4 @@ const user = {
 }
 
 console.log(user);
+console.table(user);
